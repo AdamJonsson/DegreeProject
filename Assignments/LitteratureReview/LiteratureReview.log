@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.30)  9 MAR 2022 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.30)  11 MAR 2022 12:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/adams/Repositories/CodeVR/Research/Assignments/LitteratureReview/LiteratureReview.tex
-(c:/Users/adams/Repositories/CodeVR/Research/Assignments/LitteratureReview/LiteratureReview.tex
+**c:/Users/adams/Repositories/DegreeProject/Assignments/LitteratureReview/LiteratureReview.tex
+(c:/Users/adams/Repositories/DegreeProject/Assignments/LitteratureReview/LiteratureReview.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (./sigchi.cls (c:/texlive/2021/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
@@ -881,14 +881,14 @@ Package rerunfilecheck Info: File `LiteratureReview.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  24411 strings out of 478287
- 444833 string characters out of 5850749
- 749677 words of memory out of 5000000
+ 444827 string characters out of 5850749
+ 749663 words of memory out of 5000000
  41860 multiletter control sequences out of 15000+600000
  541433 words of font info for 234 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,10n,94p,1689b,639s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,10n,94p,1687b,639s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on LiteratureReview.pdf (3 pages, 340573 bytes).
+Output written on LiteratureReview.pdf (3 pages, 340566 bytes).
 PDF statistics:
  261 PDF objects out of 1000 (max. 8388607)
  236 compressed objects within 3 object streams
