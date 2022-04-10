@@ -1,0 +1,155 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: degree-report.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: References.bib
+Warning--I didn't find a database entry for "Lamport:LaTeX"
+Warning--I didn't find a database entry for "Abril07"
+Warning--I didn't find a database entry for "Cohen07"
+Warning--I didn't find a database entry for "JCohen96"
+Warning--I didn't find a database entry for "Kosiur01"
+Warning--I didn't find a database entry for "Harel79"
+Warning--I didn't find a database entry for "Editor00"
+Warning--I didn't find a database entry for "Editor00a"
+Warning--I didn't find a database entry for "Spector90"
+Warning--I didn't find a database entry for "Douglass98"
+Warning--I didn't find a database entry for "Knuth97"
+Warning--I didn't find a database entry for "Andler79"
+Warning--I didn't find a database entry for "Hagerup1993"
+Warning--I didn't find a database entry for "Smith10"
+Warning--I didn't find a database entry for "VanGundy07"
+Warning--I didn't find a database entry for "Harel78"
+Warning--I didn't find a database entry for "Bornmann2019"
+Warning--I didn't find a database entry for "AnzarootPBM14"
+Warning--I didn't find a database entry for "Clarkson85"
+Warning--I didn't find a database entry for "anisi03"
+Warning--I didn't find a database entry for "Thornburg01"
+Warning--I didn't find a database entry for "Ablamowicz07"
+Warning--I didn't find a database entry for "Poker06"
+Warning--I didn't find a database entry for "Obama08"
+Warning--I didn't find a database entry for "Novak03"
+Warning--I didn't find a database entry for "Lee05"
+Warning--I didn't find a database entry for "JoeScientist001"
+Warning--I didn't find a database entry for "rous08"
+Warning--I didn't find a database entry for "SaeediMEJ10"
+Warning--I didn't find a database entry for "SaeediJETC10"
+Warning--I didn't find a database entry for "Kirschmer:2010:AEI:1958016.1958018"
+Warning--I didn't find a database entry for "MR781536"
+Warning--I didn't find a database entry for "MR781537"
+Warning--I didn't find a database entry for "2004:ITE:1009386.1010128"
+Warning--I didn't find a database entry for "TUGInstmem"
+Warning--I didn't find a database entry for "CTANacmart"
+Warning--I didn't find a database entry for "R"
+Warning--I didn't find a database entry for "UMassCitations"
+Warning--I didn't find a database entry for "Schwartz:1995:GBF"
+Warning--I didn't find a database entry for "ACMdiversity"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in noauthor_vision_nodate
+Warning--no author, editor, organization, or key in noauthor_vision_nodate
+Warning--to sort, need author or key in noauthor_vision_nodate
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--no key, author in noauthor_vision_nodate
+Warning--no key, author in noauthor_vision_nodate
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in noauthor_vision_nodate
+Warning--no author, editor, organization, or key in noauthor_vision_nodate
+Warning--empty organization in noauthor_vision_nodate
+Warning--empty year in noauthor_vision_nodate
+Warning--empty organization in noauthor_vision_nodate
+Warning--empty year in blackwell_cognitive_2000
+Warning--empty year in bort-roig_uptake_2014
+Warning--no journal in bort-roig_uptake_2014
+Warning--empty year in cole_they_2015
+Warning--no journal in cole_they_2015
+Warning--empty year in golding_motion_2006
+Warning--no journal in golding_motion_2006
+Warning--empty year in hadhrawi_systematic_nodate
+Warning--no journal in hadhrawi_systematic_nodate
+Warning--no number and no volume in hadhrawi_systematic_nodate
+Warning--empty year in hoffman_vergenceaccommodation_2008
+Warning--no journal in hoffman_vergenceaccommodation_2008
+Warning--empty year in holwerda_usability_2018
+Warning--empty publisher in holwerda_usability_2018
+Warning--empty address in holwerda_usability_2018
+Warning--empty year in kao_hackvr_2020
+Warning--no journal in kao_hackvr_2020
+Warning--no number and no volume in kao_hackvr_2020
+Warning--page numbers missing in both pages and numpages fields in kao_hackvr_2020
+Warning--empty year in kramida_resolving_2016
+Warning--no journal in kramida_resolving_2016
+Warning--empty year in lakdawalla_labor_2007
+Warning--no journal in lakdawalla_labor_2007
+Warning--empty year in mason_block-based_2017
+Warning--empty publisher in mason_block-based_2017
+Warning--empty address in mason_block-based_2017
+Warning--empty year in ng_effectiveness_2019
+Warning--no journal in ng_effectiveness_2019
+Warning--empty year in pronk_reducing_2012
+Warning--no journal in pronk_reducing_2012
+Warning--empty year in reichelt_depth_2010
+Warning--empty publisher in reichelt_depth_2010
+Warning--empty address in reichelt_depth_2010
+Warning--empty year in seraj_scratch_2019
+Warning--empty address in seraj_scratch_2019
+Warning--empty year in shibata_zone_2011
+Warning--no journal in shibata_zone_2011
+Warning--empty year in speicher_selection-based_2018
+Warning--empty address in speicher_selection-based_2018
+Warning--empty year in straker_sedentary_2016
+Warning--empty publisher in straker_sedentary_2016
+Warning--empty address in straker_sedentary_2016
+Warning--empty year in suryakumar_vergence_2007
+Warning--no journal in suryakumar_vergence_2007
+Warning--empty year in vincur_cubely_2017
+Warning--empty address in vincur_cubely_2017
+Warning--empty year in zhai_sedentary_2015
+Warning--no journal in zhai_sedentary_2015
+Warning--empty year in zhang_flowmatic_2020
+Warning--empty address in zhang_flowmatic_2020
+You've used 24 entries,
+            5959 wiz_defined-function locations,
+            1732 strings with 25141 characters,
+and the built_in function-call counts, 24998 in all, are:
+= -- 2374
+> -- 1104
+< -- 0
++ -- 374
+- -- 376
+* -- 2119
+:= -- 2895
+add.period$ -- 126
+call.type$ -- 24
+change.case$ -- 175
+chr.to.int$ -- 24
+cite$ -- 88
+duplicate$ -- 2082
+empty$ -- 1524
+format.name$ -- 456
+if$ -- 5639
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 82
+newline$ -- 321
+num.names$ -- 184
+pop$ -- 1204
+preamble$ -- 1
+purify$ -- 253
+quote$ -- 0
+skip$ -- 599
+stack$ -- 0
+substring$ -- 1471
+swap$ -- 239
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 494
+warning$ -- 60
+while$ -- 171
+width$ -- 0
+write$ -- 536
+(There were 100 warnings)

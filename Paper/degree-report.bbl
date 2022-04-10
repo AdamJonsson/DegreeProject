@@ -1,0 +1,436 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{24}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.\,d.]}]%
+        {noauthor_vision_nodate}
+ \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Vision {\textbar} Oculus Developers}}.
+\newblock
+\urldef\tempurl%
+\url{https://developer.oculus.com/resources/bp-vision/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Blackwell and Green}{Blackwell and
+  Green}{[n.\,d.]}]%
+        {blackwell_cognitive_2000}
+\bibfield{author}{\bibinfo{person}{Alan~F. Blackwell} {and}
+  \bibinfo{person}{Thomas R.~G. Green}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{title}{A Cognitive Dimensions Questionnaire Optimised for
+  Users}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bort-Roig, Martin, Puig-Ribera,
+  González-Suárez, Martínez-Lemos, Martori, and Gilson}{Bort-Roig
+  et~al\mbox{.}}{[n.\,d.]}]%
+        {bort-roig_uptake_2014}
+\bibfield{author}{\bibinfo{person}{Judit Bort-Roig},
+  \bibinfo{person}{Montserrat Martin}, \bibinfo{person}{Anna Puig-Ribera},
+  \bibinfo{person}{Ángel~Manuel González-Suárez}, \bibinfo{person}{Iván
+  Martínez-Lemos}, \bibinfo{person}{Joan~Carles Martori}, {and}
+  \bibinfo{person}{Nicholas~D. Gilson}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Uptake and factors that influence the use of ‘sit
+  less, move more’ occupational intervention strategies in Spanish office
+  employees}.
+\newblock  \bibinfo{volume}{11}, \bibinfo{number}{1}
+  (\bibinfo{year}{[n.\,d.]}), \bibinfo{pages}{152}.
+\newblock
+\showISSN{1479-5868}
+\urldef\tempurl%
+\url{https://doi.org/10.1186/s12966-014-0152-6}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Cole, Tully, and Cupples}{Cole
+  et~al\mbox{.}}{[n.\,d.]}]%
+        {cole_they_2015}
+\bibfield{author}{\bibinfo{person}{Judith~A. Cole}, \bibinfo{person}{Mark~A.
+  Tully}, {and} \bibinfo{person}{Margaret~E. Cupples}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{“They should stay at their desk until the
+  work’s done”: a qualitative study examining perceptions of sedentary
+  behaviour in a desk-based occupational setting}.
+\newblock  \bibinfo{volume}{8}, \bibinfo{number}{1} (\bibinfo{year}{[n.\,d.]}),
+  \bibinfo{pages}{683}.
+\newblock
+\showISSN{1756-0500}
+\urldef\tempurl%
+\url{https://doi.org/10.1186/s13104-015-1670-2}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Golding}{Golding}{[n.\,d.]}]%
+        {golding_motion_2006}
+\bibfield{author}{\bibinfo{person}{John~F. Golding}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Motion sickness susceptibility}.
+\newblock  \bibinfo{volume}{129}, \bibinfo{number}{1}
+  (\bibinfo{year}{[n.\,d.]}), \bibinfo{pages}{67--76}.
+\newblock
+\showISSN{1566-0702}
+\urldef\tempurl%
+\url{https://doi.org/10.1016/j.autneu.2006.07.019}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Hadhrawi, Blackwell, and Church}{Hadhrawi
+  et~al\mbox{.}}{[n.\,d.]}]%
+        {hadhrawi_systematic_nodate}
+\bibfield{author}{\bibinfo{person}{Mohammad Hadhrawi}, \bibinfo{person}{Alan~F
+  Blackwell}, {and} \bibinfo{person}{Luke Church}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{A Systematic Literature Review of Cognitive
+  Dimensions}.
+\newblock  (\bibinfo{year}{[n.\,d.]}), \bibinfo{pages}{13}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hoffman, Girshick, Akeley, and Banks}{Hoffman
+  et~al\mbox{.}}{[n.\,d.]}]%
+        {hoffman_vergenceaccommodation_2008}
+\bibfield{author}{\bibinfo{person}{David~M. Hoffman}, \bibinfo{person}{Ahna~R.
+  Girshick}, \bibinfo{person}{Kurt Akeley}, {and} \bibinfo{person}{Martin~S.
+  Banks}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Vergence–accommodation conflicts hinder visual
+  performance and cause visual fatigue}.
+\newblock  \bibinfo{volume}{8}, \bibinfo{number}{3} (\bibinfo{year}{[n.\,d.]}),
+  \bibinfo{pages}{33}.
+\newblock
+\showISSN{1534-7362}
+\urldef\tempurl%
+\url{https://doi.org/10.1167/8.3.33}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Holwerda and Hermans}{Holwerda and
+  Hermans}{[n.\,d.]}]%
+        {holwerda_usability_2018}
+\bibfield{author}{\bibinfo{person}{Robert Holwerda} {and}
+  \bibinfo{person}{Felienne Hermans}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{A Usability Analysis of Blocks-based Programming
+  Editors using Cognitive Dimensions}. In \bibinfo{booktitle}{\emph{2018 {IEEE}
+  Symposium on Visual Languages and Human-Centric Computing ({VL}/{HCC})}}
+  (2018-10). \bibinfo{pages}{217--225}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/VLHCC.2018.8506483}
+\showDOI{\tempurl}
+\newblock
+\shownote{{ISSN}: 1943-6106}.
+
+
+\bibitem[\protect\citeauthoryear{Kao, Mousas, Magana, Harrell, Ratan, Melcer,
+  Sherrick, Parsons, and Gusev}{Kao et~al\mbox{.}}{[n.\,d.]}]%
+        {kao_hackvr_2020}
+\bibfield{author}{\bibinfo{person}{Dominic Kao}, \bibinfo{person}{Christos
+  Mousas}, \bibinfo{person}{Alejandra~J. Magana}, \bibinfo{person}{D.~Fox
+  Harrell}, \bibinfo{person}{Rabindra Ratan}, \bibinfo{person}{Edward~F.
+  Melcer}, \bibinfo{person}{Brett Sherrick}, \bibinfo{person}{Paul Parsons},
+  {and} \bibinfo{person}{Dmitri~A. Gusev}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Hack.{VR}: A Programming Game in Virtual Reality}.
+\newblock  (\bibinfo{year}{[n.\,d.]}).
+\newblock
+\showeprint[arxiv]{2007.04495}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/2007.04495}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kramida}{Kramida}{[n.\,d.]}]%
+        {kramida_resolving_2016}
+\bibfield{author}{\bibinfo{person}{Gregory Kramida}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Resolving the Vergence-Accommodation Conflict in
+  Head-Mounted Displays}.
+\newblock  \bibinfo{volume}{22}, \bibinfo{number}{7}
+  (\bibinfo{year}{[n.\,d.]}), \bibinfo{pages}{1912--1931}.
+\newblock
+\showISSN{1941-0506}
+\urldef\tempurl%
+\url{https://doi.org/10.1109/TVCG.2015.2473855}
+\showDOI{\tempurl}
+\newblock
+\shownote{Conference Name: {IEEE} Transactions on Visualization and Computer
+  Graphics}.
+
+
+\bibitem[\protect\citeauthoryear{Lakdawalla and Philipson}{Lakdawalla and
+  Philipson}{[n.\,d.]}]%
+        {lakdawalla_labor_2007}
+\bibfield{author}{\bibinfo{person}{Darius Lakdawalla} {and}
+  \bibinfo{person}{Tomas Philipson}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Labor Supply and Weight}.
+\newblock  \bibinfo{volume}{42}, \bibinfo{number}{1}
+  (\bibinfo{year}{[n.\,d.]}), \bibinfo{pages}{85--116}.
+\newblock
+\showISSN{0022-166X}
+\urldef\tempurl%
+\url{https://www.jstor.org/stable/40057299}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Publisher: [University of Wisconsin Press, Board of Regents of the
+  University of Wisconsin System]}.
+
+
+\bibitem[\protect\citeauthoryear{Mason and Dave}{Mason and Dave}{[n.\,d.]}]%
+        {mason_block-based_2017}
+\bibfield{author}{\bibinfo{person}{Dave Mason} {and} \bibinfo{person}{Kruti
+  Dave}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Block-based versus flow-based programming for naive
+  programmers}. In \bibinfo{booktitle}{\emph{2017 {IEEE} Blocks and Beyond
+  Workshop (B B)}} (2017-10). \bibinfo{pages}{25--28}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/BLOCKS.2017.8120405}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Ng, Ma, Ho, Ip, and Fu}{Ng
+  et~al\mbox{.}}{[n.\,d.]}]%
+        {ng_effectiveness_2019}
+\bibfield{author}{\bibinfo{person}{Yu-Leung Ng}, \bibinfo{person}{Flora Ma},
+  \bibinfo{person}{Frederick~K. Ho}, \bibinfo{person}{Patrick Ip}, {and}
+  \bibinfo{person}{King-wa Fu}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Effectiveness of virtual and augmented
+  reality-enhanced exercise on physical activity, psychological outcomes, and
+  physical performance: A systematic review and meta-analysis of randomized
+  controlled trials}.
+\newblock   \bibinfo{volume}{99} (\bibinfo{year}{[n.\,d.]}),
+  \bibinfo{pages}{278--291}.
+\newblock
+\showISSN{0747-5632}
+\urldef\tempurl%
+\url{https://doi.org/10.1016/j.chb.2019.05.026}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Parry and Straker}{Parry and Straker}{2013}]%
+        {parry_contribution_2013}
+\bibfield{author}{\bibinfo{person}{Sharon Parry} {and} \bibinfo{person}{Leon
+  Straker}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{The contribution of office work to sedentary
+  behaviour associated risk}.
+\newblock \bibinfo{journal}{\emph{BMC Public Health}} \bibinfo{volume}{13},
+  \bibinfo{number}{1} (\bibinfo{year}{2013}), \bibinfo{pages}{296}.
+\newblock
+\showISSN{1471-2458}
+\urldef\tempurl%
+\url{https://doi.org/10.1186/1471-2458-13-296}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Pronk, Katz, Lowry, and Payfer}{Pronk
+  et~al\mbox{.}}{[n.\,d.]}]%
+        {pronk_reducing_2012}
+\bibfield{author}{\bibinfo{person}{Nicolaas~P. Pronk},
+  \bibinfo{person}{Abigail~S. Katz}, \bibinfo{person}{Marcia Lowry}, {and}
+  \bibinfo{person}{Jane~Rodmyre Payfer}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Reducing Occupational Sitting Time and Improving
+  Worker Health: The Take-a-Stand Project, 2011}.
+\newblock   \bibinfo{volume}{9} (\bibinfo{year}{[n.\,d.]}),
+  \bibinfo{pages}{E154}.
+\newblock
+\showISSN{1545-1151}
+\urldef\tempurl%
+\url{https://doi.org/10.5888/pcd9.110323}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Reichelt, Haeussler, Fütterer, and
+  Leister}{Reichelt et~al\mbox{.}}{[n.\,d.]}]%
+        {reichelt_depth_2010}
+\bibfield{author}{\bibinfo{person}{Stephan Reichelt}, \bibinfo{person}{Ralf
+  Haeussler}, \bibinfo{person}{Gerald Fütterer}, {and}
+  \bibinfo{person}{Norbert Leister}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Depth cues in human visual perception and
+  their realization in 3D displays}}. Vol.~\bibinfo{volume}{7690}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1117/12.850094}
+\showDOI{\tempurl}
+\newblock
+\shownote{Journal Abbreviation: Most 76900B Publication Title: Most 76900B}.
+
+
+\bibitem[\protect\citeauthoryear{Seraj, Katterfeldt, Bub, Autexier, and
+  Drechsler}{Seraj et~al\mbox{.}}{[n.\,d.]}]%
+        {seraj_scratch_2019}
+\bibfield{author}{\bibinfo{person}{Mazyar Seraj}, \bibinfo{person}{Eva-Sophie
+  Katterfeldt}, \bibinfo{person}{Kerstin Bub}, \bibinfo{person}{Serge
+  Autexier}, {and} \bibinfo{person}{Rolf Drechsler}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Scratch and Google Blockly: How Girls' Programming
+  Skills and Attitudes are Influenced}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 19th Koli Calling International
+  Conference on Computing Education Research}} (New York, {NY}, {USA},
+  2019-11-21) \emph{(\bibinfo{series}{Koli Calling '19})}.
+  \bibinfo{publisher}{Association for Computing Machinery},
+  \bibinfo{pages}{1--10}.
+\newblock
+\showISBNx{978-1-4503-7715-7}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3364510.3364515}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Shibata, Kim, Hoffman, and Banks}{Shibata
+  et~al\mbox{.}}{[n.\,d.]}]%
+        {shibata_zone_2011}
+\bibfield{author}{\bibinfo{person}{Takashi Shibata}, \bibinfo{person}{Joohwan
+  Kim}, \bibinfo{person}{David~M. Hoffman}, {and} \bibinfo{person}{Martin~S.
+  Banks}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{The zone of comfort: Predicting visual discomfort
+  with stereo displays}.
+\newblock  \bibinfo{volume}{11}, \bibinfo{number}{8}
+  (\bibinfo{year}{[n.\,d.]}), \bibinfo{pages}{11}.
+\newblock
+\showISSN{1534-7362}
+\urldef\tempurl%
+\url{https://doi.org/10.1167/11.8.11}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Speicher, Feit, Ziegler, and Krüger}{Speicher
+  et~al\mbox{.}}{[n.\,d.]}]%
+        {speicher_selection-based_2018}
+\bibfield{author}{\bibinfo{person}{Marco Speicher}, \bibinfo{person}{Anna~Maria
+  Feit}, \bibinfo{person}{Pascal Ziegler}, {and} \bibinfo{person}{Antonio
+  Krüger}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Selection-based Text Entry in Virtual Reality}.
+\newblock In \bibinfo{booktitle}{\emph{Proceedings of the 2018 {CHI} Conference
+  on Human Factors in Computing Systems}}. \bibinfo{publisher}{Association for
+  Computing Machinery}, \bibinfo{pages}{1--13}.
+\newblock
+\showISBNx{978-1-4503-5620-6}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3173574.3174221}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Straker}{Straker}{[n.\,d.]}]%
+        {straker_sedentary_2016}
+\bibfield{author}{\bibinfo{person}{Leon Straker}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Sedentary work: evidence on an emergent
+  work health and safety issue report}}.
+\newblock
+\showISBNx{978-1-76028-589-0 978-1-76028-590-6}
+\newblock
+\shownote{{OCLC}: 1262093519}.
+
+
+\bibitem[\protect\citeauthoryear{Suryakumar, Meyers, Irving, and
+  Bobier}{Suryakumar et~al\mbox{.}}{[n.\,d.]}]%
+        {suryakumar_vergence_2007}
+\bibfield{author}{\bibinfo{person}{Rajaraman Suryakumar},
+  \bibinfo{person}{Jason~P. Meyers}, \bibinfo{person}{Elizabeth~L. Irving},
+  {and} \bibinfo{person}{William~R. Bobier}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Vergence accommodation and monocular closed loop
+  blur accommodation have similar dynamic characteristics}.
+\newblock  \bibinfo{volume}{47}, \bibinfo{number}{3}
+  (\bibinfo{year}{[n.\,d.]}), \bibinfo{pages}{327--337}.
+\newblock
+\showISSN{0042-6989}
+\urldef\tempurl%
+\url{https://doi.org/10.1016/j.visres.2006.10.006}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Vincur, Konopka, Tvarozek, Hoang, and
+  Navrat}{Vincur et~al\mbox{.}}{[n.\,d.]}]%
+        {vincur_cubely_2017}
+\bibfield{author}{\bibinfo{person}{Juraj Vincur}, \bibinfo{person}{Martin
+  Konopka}, \bibinfo{person}{Jozef Tvarozek}, \bibinfo{person}{Martin Hoang},
+  {and} \bibinfo{person}{Pavol Navrat}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Cubely: virtual reality block-based programming
+  environment}. In \bibinfo{booktitle}{\emph{Proceedings of the 23rd {ACM}
+  Symposium on Virtual Reality Software and Technology}} (New York, {NY},
+  {USA}, 2017-11-08) \emph{(\bibinfo{series}{{VRST} '17})}.
+  \bibinfo{publisher}{Association for Computing Machinery},
+  \bibinfo{pages}{1--2}.
+\newblock
+\showISBNx{978-1-4503-5548-3}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3139131.3141785}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Zhai, Zhang, and Zhang}{Zhai
+  et~al\mbox{.}}{[n.\,d.]}]%
+        {zhai_sedentary_2015}
+\bibfield{author}{\bibinfo{person}{Long Zhai}, \bibinfo{person}{Yi Zhang},
+  {and} \bibinfo{person}{Dongfeng Zhang}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Sedentary behaviour and the risk of depression: a
+  meta-analysis}.
+\newblock  \bibinfo{volume}{49}, \bibinfo{number}{11}
+  (\bibinfo{year}{[n.\,d.]}), \bibinfo{pages}{705--709}.
+\newblock
+\showISSN{0306-3674, 1473-0480}
+\urldef\tempurl%
+\url{https://doi.org/10.1136/bjsports-2014-093613}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Zhang and Oney}{Zhang and Oney}{[n.\,d.]}]%
+        {zhang_flowmatic_2020}
+\bibfield{author}{\bibinfo{person}{Lei Zhang} {and} \bibinfo{person}{Steve
+  Oney}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{{FlowMatic}: An Immersive Authoring Tool for
+  Creating Interactive Scenes in Virtual Reality}.
+\newblock In \bibinfo{booktitle}{\emph{Proceedings of the 33rd Annual {ACM}
+  Symposium on User Interface Software and Technology}}.
+  \bibinfo{publisher}{Association for Computing Machinery},
+  \bibinfo{pages}{342--353}.
+\newblock
+\showISBNx{978-1-4503-7514-6}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3379337.3415824}
+\showURL{%
+\tempurl}
+
+
+\end{thebibliography}
